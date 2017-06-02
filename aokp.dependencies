@@ -8,6 +8,10 @@
     "target_path": "packages/apps/FlipFlap"
  },
  {
+    "repository": "ontherunvaro/proprietary_vendor_zuk_z2_plus",
+    "target_path": "vendor/zuk/z2_plus"
+ },
+ {
    "repository": "android_packages_resources_devicesettings",
    "target_path": "packages/resources/devicesettings"
  },
